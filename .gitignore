@@ -1,0 +1,14 @@
+# Virtual environment folders
+venv/
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings folder
+.vscode/
